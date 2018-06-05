@@ -1,7 +1,7 @@
 # RSD-data
 - Description
 
-This folder contains files of BAO and RSD parameters correlation matrices including:
+This folder contains files of BAO and RSD parameters covariance matrices including:
 
 **invcov_dvfapfs8.dat** for inverse of covariance matrix of {D_V, F_AP, fsigma8}
 
