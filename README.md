@@ -28,6 +28,6 @@ fsigma8(bin1|bin2|...|bin9)
 
 Each row is from bin1 to bin9
 
-**invcov_dahfs8.dat** and **vector_dahfs8.dat** conforms the same data format.
+**invcov_dahfs8.dat** and **vector_dahfs8.dat** conforms similar data format.
 
 Please refer to the original reference:arxiv1806.xxxx
